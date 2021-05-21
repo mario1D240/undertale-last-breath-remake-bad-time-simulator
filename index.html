@@ -101,7 +101,7 @@
 				cr_setSuspended(false);
 		};
 		
-		document.addEventListener("visibilitychange", onVisibilityChanged, false);
+		document.addEventListener("visibilitychange", onVisibilityChanged, true);
 		document.addEventListener("mozvisibilitychange", onVisibilityChanged, false);
 		document.addEventListener("webkitvisibilitychange", onVisibilityChanged, false);
 		document.addEventListener("msvisibilitychange", onVisibilityChanged, false);
