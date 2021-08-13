@@ -113,6 +113,7 @@
 		"loading-logo.png",
 		"sans_intro.csv",
 		"sans_spare.csv",
-		"lastbreath.csv",
+		"424292crop0_42_1279_362lluacipyqsv-sheet0.png",
+		"sanshead-sheet1.png",
 	]
 }
