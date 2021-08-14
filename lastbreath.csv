@@ -27,7 +27,7 @@
 0,SansHead,NoEyes,,,,,,,
 0,Sound,4,0,,,,,,
 0,SansText,that driven you into this.,,,,,,,
-0,Sound,3,1,,,,,,
+0.4,Sound,3,0,,,,,,
 0,CombatZoneResizeInstant,133,251,508,391,,,,
 0,HeartTeleport,320,304,,,,,,
 0,Sound,Ding,,,,,,,
